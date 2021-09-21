@@ -5,6 +5,7 @@ progetto per il corso: applicazioni multimediali e internet del futuro 2021
 . Server in python usando Flask (framework per web application, GET/POST e Sendmail)<br/>
 . Libreria OpenCV per riconoscimento facciale<br/>
 <h3>Android</h3>
-. Applicazione con due categorie:<br/>
-Webcam (videocamera attiva e individua le persone)<br/>
-Babymonitor (analizza decibel e se maggiori manda email)<br/>
+. Applicazione divisa in 3:<br/>
+Sorvegliante (rilevamento persona e notifica email)<br/>
+Babymonitor (analizza decibel e se maggiore manda email)<br/>
+IP-CAM (videocamera in tempo reale)
