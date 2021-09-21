@@ -1,0 +1,21 @@
+
+body{
+	background: green;
+	opacity: 0.6;
+}
+
+ input[type=text] {
+     width: 500px;
+     padding: 12px 20px;
+     margin: 8px 0;
+  
+}
+ 
+
+
+.box {
+    border: 400 px;
+    float: center;
+    height: 200px;
+    width: 1000px;
+}

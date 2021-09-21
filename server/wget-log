@@ -1,0 +1,12 @@
+--2021-04-29 22:04:32--  https://duckduckgo.com/?q=person+full+body+
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving duckduckgo.com (duckduckgo.com)... 40.114.177.156
+Connecting to duckduckgo.com (duckduckgo.com)|40.114.177.156|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘index.html?q=person+full+body+’
+
+index.html?q=person+full+body+               [<=>                                                                              ]       0  --.-KB/s               index.html?q=person+full+body+               [ <=>                                                                             ]  46,17K  --.-KB/s    in 0,07s   
+
+2021-04-29 22:04:33 (700 KB/s) - ‘index.html?q=person+full+body+’ saved [47277]
+
