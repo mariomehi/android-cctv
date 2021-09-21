@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="cam_str">com/example/myapplication/CameraActivity.java</string>
+</resources>
